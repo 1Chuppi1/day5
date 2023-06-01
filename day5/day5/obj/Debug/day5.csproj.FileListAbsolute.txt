@@ -1,0 +1,16 @@
+C:\Users\Студент\source\repos\day5\day5\obj\Debug\day5.csproj.AssemblyReference.cache
+C:\Users\Студент\source\repos\day5\day5\obj\Debug\day5.csproj.SuggestedBindingRedirects.cache
+C:\Users\Студент\source\repos\day5\day5\obj\Debug\day5.csproj.CoreCompileInputs.cache
+C:\Users\Студент\source\repos\day5\day5\bin\Debug\day5.exe.config
+C:\Users\Студент\source\repos\day5\day5\bin\Debug\day5.exe
+C:\Users\Студент\source\repos\day5\day5\bin\Debug\day5.pdb
+C:\Users\Студент\source\repos\day5\day5\obj\Debug\day5.exe
+C:\Users\Студент\source\repos\day5\day5\obj\Debug\day5.pdb
+C:\Users\Студент\Desktop\day5\day5\bin\Debug\day5.exe.config
+C:\Users\Студент\Desktop\day5\day5\bin\Debug\day5.exe
+C:\Users\Студент\Desktop\day5\day5\bin\Debug\day5.pdb
+C:\Users\Студент\Desktop\day5\day5\obj\Debug\day5.csproj.AssemblyReference.cache
+C:\Users\Студент\Desktop\day5\day5\obj\Debug\day5.csproj.SuggestedBindingRedirects.cache
+C:\Users\Студент\Desktop\day5\day5\obj\Debug\day5.csproj.CoreCompileInputs.cache
+C:\Users\Студент\Desktop\day5\day5\obj\Debug\day5.exe
+C:\Users\Студент\Desktop\day5\day5\obj\Debug\day5.pdb
